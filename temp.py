@@ -1,5 +1,5 @@
 from datetime import datetime
-#from pprint import pprint
+from pprint import pprint
 
 
 def convert_timestamp(ts, from_pattern, to_pattern):
